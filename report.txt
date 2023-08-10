@@ -1,0 +1,3 @@
+    I used to work in React earlier. I just recalled many things in this assessment. i have faced many difficulties as I had never used the Axios protocol before, so I had to watch YouTube videos and
+I learned something new. The most important thing I learned is the Unsplash API, as I didn't even know about it.like to learn new things, and to be honest, this assessment was good. I have learned many concepts like how
+to use the Axios protocol, the Unsplash API, as well as I recalled the `useState` concept which I had almost forgotten.
